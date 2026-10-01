@@ -1,0 +1,1201 @@
+audit_id,channel,result,coachable
+SYN-0001,Chat,No defect,False
+SYN-0002,Chat,Process,False
+SYN-0003,Voice,No defect,False
+SYN-0004,Voice,No defect,False
+SYN-0005,Voice,No defect,False
+SYN-0006,Voice,No defect,False
+SYN-0007,Email,No defect,False
+SYN-0008,Chat,No defect,False
+SYN-0009,Voice,No defect,False
+SYN-0010,Voice,No defect,False
+SYN-0011,Chat,Resolution,True
+SYN-0012,Chat,Documentation,True
+SYN-0013,Email,No defect,False
+SYN-0014,Voice,Resolution,True
+SYN-0015,Chat,No defect,False
+SYN-0016,Chat,Process,False
+SYN-0017,Voice,Communication,True
+SYN-0018,Chat,No defect,False
+SYN-0019,Voice,No defect,False
+SYN-0020,Chat,Documentation,True
+SYN-0021,Email,No defect,False
+SYN-0022,Chat,No defect,False
+SYN-0023,Chat,No defect,False
+SYN-0024,Chat,No defect,False
+SYN-0025,Chat,No defect,False
+SYN-0026,Chat,Resolution,True
+SYN-0027,Chat,Resolution,True
+SYN-0028,Voice,Documentation,True
+SYN-0029,Voice,No defect,False
+SYN-0030,Chat,No defect,False
+SYN-0031,Chat,Documentation,True
+SYN-0032,Email,Resolution,True
+SYN-0033,Chat,No defect,False
+SYN-0034,Chat,Documentation,True
+SYN-0035,Voice,Resolution,True
+SYN-0036,Voice,No defect,False
+SYN-0037,Email,Communication,True
+SYN-0038,Chat,No defect,False
+SYN-0039,Voice,No defect,False
+SYN-0040,Chat,No defect,False
+SYN-0041,Email,No defect,False
+SYN-0042,Chat,No defect,False
+SYN-0043,Chat,Documentation,True
+SYN-0044,Chat,Process,False
+SYN-0045,Chat,Documentation,True
+SYN-0046,Voice,Resolution,True
+SYN-0047,Chat,No defect,False
+SYN-0048,Chat,No defect,False
+SYN-0049,Voice,No defect,False
+SYN-0050,Chat,No defect,False
+SYN-0051,Chat,No defect,False
+SYN-0052,Chat,No defect,False
+SYN-0053,Chat,Communication,True
+SYN-0054,Voice,No defect,False
+SYN-0055,Voice,No defect,False
+SYN-0056,Email,Documentation,True
+SYN-0057,Email,No defect,False
+SYN-0058,Voice,Process,False
+SYN-0059,Voice,No defect,False
+SYN-0060,Voice,No defect,False
+SYN-0061,Voice,Resolution,True
+SYN-0062,Chat,No defect,False
+SYN-0063,Voice,No defect,False
+SYN-0064,Voice,Process,False
+SYN-0065,Email,No defect,False
+SYN-0066,Chat,Documentation,True
+SYN-0067,Voice,Resolution,True
+SYN-0068,Email,No defect,False
+SYN-0069,Voice,No defect,False
+SYN-0070,Voice,No defect,False
+SYN-0071,Chat,No defect,False
+SYN-0072,Voice,No defect,False
+SYN-0073,Chat,No defect,False
+SYN-0074,Chat,No defect,False
+SYN-0075,Email,Resolution,True
+SYN-0076,Chat,Resolution,True
+SYN-0077,Voice,No defect,False
+SYN-0078,Chat,Resolution,True
+SYN-0079,Chat,Resolution,True
+SYN-0080,Chat,No defect,False
+SYN-0081,Chat,Documentation,True
+SYN-0082,Chat,Documentation,True
+SYN-0083,Voice,No defect,False
+SYN-0084,Voice,No defect,False
+SYN-0085,Chat,Resolution,True
+SYN-0086,Chat,No defect,False
+SYN-0087,Voice,Resolution,True
+SYN-0088,Chat,No defect,False
+SYN-0089,Voice,No defect,False
+SYN-0090,Voice,No defect,False
+SYN-0091,Voice,Resolution,True
+SYN-0092,Chat,No defect,False
+SYN-0093,Chat,Resolution,True
+SYN-0094,Email,Documentation,True
+SYN-0095,Chat,No defect,False
+SYN-0096,Chat,No defect,False
+SYN-0097,Chat,Documentation,True
+SYN-0098,Email,No defect,False
+SYN-0099,Voice,No defect,False
+SYN-0100,Voice,No defect,False
+SYN-0101,Chat,No defect,False
+SYN-0102,Email,No defect,False
+SYN-0103,Chat,No defect,False
+SYN-0104,Email,No defect,False
+SYN-0105,Email,No defect,False
+SYN-0106,Email,No defect,False
+SYN-0107,Email,Communication,True
+SYN-0108,Email,No defect,False
+SYN-0109,Email,Process,False
+SYN-0110,Email,No defect,False
+SYN-0111,Email,Resolution,True
+SYN-0112,Chat,No defect,False
+SYN-0113,Email,No defect,False
+SYN-0114,Voice,Documentation,True
+SYN-0115,Chat,No defect,False
+SYN-0116,Voice,No defect,False
+SYN-0117,Chat,No defect,False
+SYN-0118,Email,No defect,False
+SYN-0119,Email,Resolution,True
+SYN-0120,Voice,No defect,False
+SYN-0121,Voice,No defect,False
+SYN-0122,Chat,Documentation,True
+SYN-0123,Chat,No defect,False
+SYN-0124,Email,Communication,True
+SYN-0125,Chat,No defect,False
+SYN-0126,Voice,Resolution,True
+SYN-0127,Chat,No defect,False
+SYN-0128,Chat,Process,False
+SYN-0129,Chat,Process,False
+SYN-0130,Chat,No defect,False
+SYN-0131,Chat,No defect,False
+SYN-0132,Chat,No defect,False
+SYN-0133,Chat,No defect,False
+SYN-0134,Chat,No defect,False
+SYN-0135,Email,Documentation,True
+SYN-0136,Voice,Communication,True
+SYN-0137,Voice,No defect,False
+SYN-0138,Chat,No defect,False
+SYN-0139,Email,Documentation,True
+SYN-0140,Email,No defect,False
+SYN-0141,Email,Process,False
+SYN-0142,Email,Resolution,True
+SYN-0143,Chat,Process,False
+SYN-0144,Voice,No defect,False
+SYN-0145,Chat,No defect,False
+SYN-0146,Chat,No defect,False
+SYN-0147,Voice,No defect,False
+SYN-0148,Email,Process,False
+SYN-0149,Email,No defect,False
+SYN-0150,Chat,No defect,False
+SYN-0151,Chat,Process,False
+SYN-0152,Email,Documentation,True
+SYN-0153,Voice,No defect,False
+SYN-0154,Voice,No defect,False
+SYN-0155,Chat,Communication,True
+SYN-0156,Chat,No defect,False
+SYN-0157,Chat,No defect,False
+SYN-0158,Voice,No defect,False
+SYN-0159,Email,No defect,False
+SYN-0160,Email,No defect,False
+SYN-0161,Voice,Resolution,True
+SYN-0162,Email,No defect,False
+SYN-0163,Email,No defect,False
+SYN-0164,Chat,No defect,False
+SYN-0165,Chat,No defect,False
+SYN-0166,Voice,Process,False
+SYN-0167,Voice,No defect,False
+SYN-0168,Chat,Communication,True
+SYN-0169,Chat,Process,False
+SYN-0170,Chat,No defect,False
+SYN-0171,Email,Resolution,True
+SYN-0172,Chat,No defect,False
+SYN-0173,Voice,No defect,False
+SYN-0174,Chat,No defect,False
+SYN-0175,Voice,No defect,False
+SYN-0176,Chat,No defect,False
+SYN-0177,Chat,No defect,False
+SYN-0178,Voice,No defect,False
+SYN-0179,Chat,No defect,False
+SYN-0180,Chat,No defect,False
+SYN-0181,Email,Process,False
+SYN-0182,Email,Process,False
+SYN-0183,Chat,No defect,False
+SYN-0184,Chat,No defect,False
+SYN-0185,Chat,No defect,False
+SYN-0186,Chat,Process,False
+SYN-0187,Voice,Documentation,True
+SYN-0188,Voice,Resolution,True
+SYN-0189,Voice,No defect,False
+SYN-0190,Email,No defect,False
+SYN-0191,Voice,No defect,False
+SYN-0192,Chat,No defect,False
+SYN-0193,Chat,No defect,False
+SYN-0194,Email,No defect,False
+SYN-0195,Chat,No defect,False
+SYN-0196,Chat,Documentation,True
+SYN-0197,Email,No defect,False
+SYN-0198,Voice,Documentation,True
+SYN-0199,Chat,No defect,False
+SYN-0200,Chat,Documentation,True
+SYN-0201,Chat,Documentation,True
+SYN-0202,Chat,No defect,False
+SYN-0203,Voice,No defect,False
+SYN-0204,Chat,Documentation,True
+SYN-0205,Chat,No defect,False
+SYN-0206,Chat,No defect,False
+SYN-0207,Chat,No defect,False
+SYN-0208,Email,No defect,False
+SYN-0209,Chat,No defect,False
+SYN-0210,Voice,No defect,False
+SYN-0211,Chat,Resolution,True
+SYN-0212,Chat,No defect,False
+SYN-0213,Chat,No defect,False
+SYN-0214,Email,No defect,False
+SYN-0215,Voice,No defect,False
+SYN-0216,Chat,No defect,False
+SYN-0217,Chat,No defect,False
+SYN-0218,Chat,No defect,False
+SYN-0219,Chat,No defect,False
+SYN-0220,Chat,No defect,False
+SYN-0221,Chat,Resolution,True
+SYN-0222,Voice,No defect,False
+SYN-0223,Chat,No defect,False
+SYN-0224,Voice,No defect,False
+SYN-0225,Email,No defect,False
+SYN-0226,Chat,No defect,False
+SYN-0227,Chat,No defect,False
+SYN-0228,Chat,No defect,False
+SYN-0229,Voice,No defect,False
+SYN-0230,Chat,No defect,False
+SYN-0231,Email,Communication,True
+SYN-0232,Voice,No defect,False
+SYN-0233,Voice,No defect,False
+SYN-0234,Email,No defect,False
+SYN-0235,Chat,No defect,False
+SYN-0236,Chat,Process,False
+SYN-0237,Email,No defect,False
+SYN-0238,Email,No defect,False
+SYN-0239,Email,No defect,False
+SYN-0240,Email,No defect,False
+SYN-0241,Chat,No defect,False
+SYN-0242,Chat,No defect,False
+SYN-0243,Chat,No defect,False
+SYN-0244,Email,No defect,False
+SYN-0245,Chat,No defect,False
+SYN-0246,Chat,Process,False
+SYN-0247,Voice,No defect,False
+SYN-0248,Voice,No defect,False
+SYN-0249,Voice,No defect,False
+SYN-0250,Email,Process,False
+SYN-0251,Voice,No defect,False
+SYN-0252,Chat,No defect,False
+SYN-0253,Email,No defect,False
+SYN-0254,Chat,No defect,False
+SYN-0255,Chat,No defect,False
+SYN-0256,Voice,No defect,False
+SYN-0257,Voice,No defect,False
+SYN-0258,Chat,No defect,False
+SYN-0259,Email,No defect,False
+SYN-0260,Voice,Resolution,True
+SYN-0261,Email,No defect,False
+SYN-0262,Voice,Resolution,True
+SYN-0263,Chat,Resolution,True
+SYN-0264,Voice,Process,False
+SYN-0265,Chat,No defect,False
+SYN-0266,Voice,No defect,False
+SYN-0267,Email,Resolution,True
+SYN-0268,Voice,Documentation,True
+SYN-0269,Email,No defect,False
+SYN-0270,Chat,No defect,False
+SYN-0271,Voice,No defect,False
+SYN-0272,Chat,Communication,True
+SYN-0273,Chat,No defect,False
+SYN-0274,Voice,No defect,False
+SYN-0275,Voice,Documentation,True
+SYN-0276,Voice,No defect,False
+SYN-0277,Email,No defect,False
+SYN-0278,Chat,Resolution,True
+SYN-0279,Voice,Documentation,True
+SYN-0280,Email,Resolution,True
+SYN-0281,Chat,Resolution,True
+SYN-0282,Voice,Resolution,True
+SYN-0283,Chat,Communication,True
+SYN-0284,Voice,Process,False
+SYN-0285,Voice,Resolution,True
+SYN-0286,Voice,No defect,False
+SYN-0287,Chat,Resolution,True
+SYN-0288,Chat,Process,False
+SYN-0289,Voice,Resolution,True
+SYN-0290,Voice,No defect,False
+SYN-0291,Voice,No defect,False
+SYN-0292,Chat,No defect,False
+SYN-0293,Voice,No defect,False
+SYN-0294,Chat,No defect,False
+SYN-0295,Chat,No defect,False
+SYN-0296,Chat,No defect,False
+SYN-0297,Chat,Process,False
+SYN-0298,Email,No defect,False
+SYN-0299,Email,No defect,False
+SYN-0300,Voice,No defect,False
+SYN-0301,Chat,No defect,False
+SYN-0302,Chat,No defect,False
+SYN-0303,Chat,No defect,False
+SYN-0304,Email,No defect,False
+SYN-0305,Voice,No defect,False
+SYN-0306,Chat,No defect,False
+SYN-0307,Voice,No defect,False
+SYN-0308,Voice,No defect,False
+SYN-0309,Chat,No defect,False
+SYN-0310,Chat,Process,False
+SYN-0311,Voice,Documentation,True
+SYN-0312,Voice,Communication,True
+SYN-0313,Voice,No defect,False
+SYN-0314,Chat,No defect,False
+SYN-0315,Email,No defect,False
+SYN-0316,Chat,No defect,False
+SYN-0317,Chat,No defect,False
+SYN-0318,Email,No defect,False
+SYN-0319,Email,No defect,False
+SYN-0320,Voice,No defect,False
+SYN-0321,Voice,No defect,False
+SYN-0322,Chat,No defect,False
+SYN-0323,Chat,Resolution,True
+SYN-0324,Chat,No defect,False
+SYN-0325,Chat,No defect,False
+SYN-0326,Voice,No defect,False
+SYN-0327,Email,No defect,False
+SYN-0328,Email,No defect,False
+SYN-0329,Email,No defect,False
+SYN-0330,Chat,No defect,False
+SYN-0331,Email,No defect,False
+SYN-0332,Email,Resolution,True
+SYN-0333,Chat,Resolution,True
+SYN-0334,Voice,No defect,False
+SYN-0335,Voice,Process,False
+SYN-0336,Chat,No defect,False
+SYN-0337,Chat,No defect,False
+SYN-0338,Chat,No defect,False
+SYN-0339,Email,No defect,False
+SYN-0340,Chat,No defect,False
+SYN-0341,Chat,Documentation,True
+SYN-0342,Chat,No defect,False
+SYN-0343,Chat,No defect,False
+SYN-0344,Chat,No defect,False
+SYN-0345,Chat,Communication,True
+SYN-0346,Chat,No defect,False
+SYN-0347,Email,No defect,False
+SYN-0348,Chat,No defect,False
+SYN-0349,Voice,Resolution,True
+SYN-0350,Voice,No defect,False
+SYN-0351,Email,No defect,False
+SYN-0352,Email,Documentation,True
+SYN-0353,Chat,No defect,False
+SYN-0354,Chat,No defect,False
+SYN-0355,Voice,Resolution,True
+SYN-0356,Voice,No defect,False
+SYN-0357,Chat,Process,False
+SYN-0358,Voice,Resolution,True
+SYN-0359,Chat,No defect,False
+SYN-0360,Chat,No defect,False
+SYN-0361,Chat,Documentation,True
+SYN-0362,Voice,Process,False
+SYN-0363,Email,No defect,False
+SYN-0364,Chat,Documentation,True
+SYN-0365,Chat,No defect,False
+SYN-0366,Voice,Communication,True
+SYN-0367,Voice,No defect,False
+SYN-0368,Email,No defect,False
+SYN-0369,Chat,No defect,False
+SYN-0370,Voice,Resolution,True
+SYN-0371,Chat,No defect,False
+SYN-0372,Chat,Process,False
+SYN-0373,Voice,Process,False
+SYN-0374,Chat,No defect,False
+SYN-0375,Chat,No defect,False
+SYN-0376,Voice,Documentation,True
+SYN-0377,Voice,No defect,False
+SYN-0378,Chat,Resolution,True
+SYN-0379,Email,No defect,False
+SYN-0380,Chat,No defect,False
+SYN-0381,Chat,Resolution,True
+SYN-0382,Chat,No defect,False
+SYN-0383,Chat,No defect,False
+SYN-0384,Email,Process,False
+SYN-0385,Chat,No defect,False
+SYN-0386,Voice,No defect,False
+SYN-0387,Chat,No defect,False
+SYN-0388,Chat,No defect,False
+SYN-0389,Voice,Process,False
+SYN-0390,Chat,Documentation,True
+SYN-0391,Chat,No defect,False
+SYN-0392,Chat,No defect,False
+SYN-0393,Chat,Resolution,True
+SYN-0394,Chat,No defect,False
+SYN-0395,Email,No defect,False
+SYN-0396,Chat,No defect,False
+SYN-0397,Voice,No defect,False
+SYN-0398,Chat,No defect,False
+SYN-0399,Voice,No defect,False
+SYN-0400,Email,No defect,False
+SYN-0401,Chat,No defect,False
+SYN-0402,Email,Resolution,True
+SYN-0403,Chat,No defect,False
+SYN-0404,Email,No defect,False
+SYN-0405,Voice,No defect,False
+SYN-0406,Email,Resolution,True
+SYN-0407,Chat,No defect,False
+SYN-0408,Chat,No defect,False
+SYN-0409,Chat,No defect,False
+SYN-0410,Email,No defect,False
+SYN-0411,Chat,No defect,False
+SYN-0412,Chat,No defect,False
+SYN-0413,Chat,No defect,False
+SYN-0414,Chat,No defect,False
+SYN-0415,Email,No defect,False
+SYN-0416,Chat,No defect,False
+SYN-0417,Chat,No defect,False
+SYN-0418,Email,No defect,False
+SYN-0419,Email,No defect,False
+SYN-0420,Email,No defect,False
+SYN-0421,Email,Process,False
+SYN-0422,Voice,No defect,False
+SYN-0423,Chat,No defect,False
+SYN-0424,Chat,No defect,False
+SYN-0425,Chat,No defect,False
+SYN-0426,Email,Resolution,True
+SYN-0427,Email,Resolution,True
+SYN-0428,Chat,No defect,False
+SYN-0429,Voice,No defect,False
+SYN-0430,Voice,No defect,False
+SYN-0431,Voice,No defect,False
+SYN-0432,Chat,Resolution,True
+SYN-0433,Voice,No defect,False
+SYN-0434,Chat,No defect,False
+SYN-0435,Chat,No defect,False
+SYN-0436,Chat,No defect,False
+SYN-0437,Chat,No defect,False
+SYN-0438,Chat,No defect,False
+SYN-0439,Voice,Resolution,True
+SYN-0440,Voice,No defect,False
+SYN-0441,Chat,Process,False
+SYN-0442,Chat,No defect,False
+SYN-0443,Chat,No defect,False
+SYN-0444,Chat,No defect,False
+SYN-0445,Voice,Process,False
+SYN-0446,Voice,Process,False
+SYN-0447,Email,No defect,False
+SYN-0448,Voice,No defect,False
+SYN-0449,Chat,No defect,False
+SYN-0450,Voice,No defect,False
+SYN-0451,Chat,No defect,False
+SYN-0452,Email,No defect,False
+SYN-0453,Email,Communication,True
+SYN-0454,Voice,No defect,False
+SYN-0455,Voice,No defect,False
+SYN-0456,Chat,Documentation,True
+SYN-0457,Voice,No defect,False
+SYN-0458,Email,No defect,False
+SYN-0459,Chat,No defect,False
+SYN-0460,Chat,No defect,False
+SYN-0461,Email,Communication,True
+SYN-0462,Email,No defect,False
+SYN-0463,Chat,No defect,False
+SYN-0464,Chat,No defect,False
+SYN-0465,Chat,Resolution,True
+SYN-0466,Chat,No defect,False
+SYN-0467,Chat,Resolution,True
+SYN-0468,Chat,Resolution,True
+SYN-0469,Chat,No defect,False
+SYN-0470,Chat,Communication,True
+SYN-0471,Email,No defect,False
+SYN-0472,Voice,No defect,False
+SYN-0473,Chat,Resolution,True
+SYN-0474,Voice,No defect,False
+SYN-0475,Chat,No defect,False
+SYN-0476,Chat,Resolution,True
+SYN-0477,Chat,No defect,False
+SYN-0478,Voice,No defect,False
+SYN-0479,Chat,Resolution,True
+SYN-0480,Chat,Process,False
+SYN-0481,Chat,No defect,False
+SYN-0482,Chat,No defect,False
+SYN-0483,Chat,Resolution,True
+SYN-0484,Voice,No defect,False
+SYN-0485,Chat,No defect,False
+SYN-0486,Voice,No defect,False
+SYN-0487,Chat,No defect,False
+SYN-0488,Chat,No defect,False
+SYN-0489,Chat,No defect,False
+SYN-0490,Voice,No defect,False
+SYN-0491,Voice,No defect,False
+SYN-0492,Voice,No defect,False
+SYN-0493,Chat,No defect,False
+SYN-0494,Email,Resolution,True
+SYN-0495,Chat,No defect,False
+SYN-0496,Chat,No defect,False
+SYN-0497,Chat,No defect,False
+SYN-0498,Voice,Documentation,True
+SYN-0499,Email,No defect,False
+SYN-0500,Voice,No defect,False
+SYN-0501,Chat,No defect,False
+SYN-0502,Email,No defect,False
+SYN-0503,Chat,No defect,False
+SYN-0504,Voice,Process,False
+SYN-0505,Email,Communication,True
+SYN-0506,Chat,Resolution,True
+SYN-0507,Chat,No defect,False
+SYN-0508,Email,No defect,False
+SYN-0509,Chat,No defect,False
+SYN-0510,Email,Process,False
+SYN-0511,Chat,No defect,False
+SYN-0512,Voice,No defect,False
+SYN-0513,Email,No defect,False
+SYN-0514,Chat,No defect,False
+SYN-0515,Chat,No defect,False
+SYN-0516,Chat,Resolution,True
+SYN-0517,Email,No defect,False
+SYN-0518,Chat,No defect,False
+SYN-0519,Chat,No defect,False
+SYN-0520,Voice,No defect,False
+SYN-0521,Chat,Documentation,True
+SYN-0522,Chat,No defect,False
+SYN-0523,Chat,No defect,False
+SYN-0524,Chat,No defect,False
+SYN-0525,Chat,Process,False
+SYN-0526,Chat,No defect,False
+SYN-0527,Voice,No defect,False
+SYN-0528,Voice,No defect,False
+SYN-0529,Email,Resolution,True
+SYN-0530,Email,Communication,True
+SYN-0531,Voice,No defect,False
+SYN-0532,Voice,Resolution,True
+SYN-0533,Email,Documentation,True
+SYN-0534,Email,Process,False
+SYN-0535,Chat,Resolution,True
+SYN-0536,Voice,Documentation,True
+SYN-0537,Chat,Resolution,True
+SYN-0538,Chat,No defect,False
+SYN-0539,Chat,No defect,False
+SYN-0540,Chat,No defect,False
+SYN-0541,Chat,No defect,False
+SYN-0542,Voice,Resolution,True
+SYN-0543,Chat,No defect,False
+SYN-0544,Email,No defect,False
+SYN-0545,Chat,Process,False
+SYN-0546,Chat,No defect,False
+SYN-0547,Chat,No defect,False
+SYN-0548,Chat,No defect,False
+SYN-0549,Email,No defect,False
+SYN-0550,Chat,No defect,False
+SYN-0551,Voice,Process,False
+SYN-0552,Chat,No defect,False
+SYN-0553,Chat,Documentation,True
+SYN-0554,Chat,Process,False
+SYN-0555,Chat,No defect,False
+SYN-0556,Voice,Resolution,True
+SYN-0557,Voice,Process,False
+SYN-0558,Voice,No defect,False
+SYN-0559,Chat,No defect,False
+SYN-0560,Chat,No defect,False
+SYN-0561,Chat,Process,False
+SYN-0562,Email,Resolution,True
+SYN-0563,Voice,No defect,False
+SYN-0564,Chat,No defect,False
+SYN-0565,Email,No defect,False
+SYN-0566,Voice,No defect,False
+SYN-0567,Voice,Resolution,True
+SYN-0568,Voice,Resolution,True
+SYN-0569,Email,No defect,False
+SYN-0570,Chat,No defect,False
+SYN-0571,Email,No defect,False
+SYN-0572,Email,No defect,False
+SYN-0573,Voice,No defect,False
+SYN-0574,Chat,Communication,True
+SYN-0575,Voice,No defect,False
+SYN-0576,Chat,No defect,False
+SYN-0577,Voice,Process,False
+SYN-0578,Chat,No defect,False
+SYN-0579,Chat,No defect,False
+SYN-0580,Email,Resolution,True
+SYN-0581,Voice,No defect,False
+SYN-0582,Email,Resolution,True
+SYN-0583,Email,No defect,False
+SYN-0584,Chat,No defect,False
+SYN-0585,Chat,No defect,False
+SYN-0586,Email,Documentation,True
+SYN-0587,Chat,No defect,False
+SYN-0588,Chat,No defect,False
+SYN-0589,Chat,No defect,False
+SYN-0590,Email,No defect,False
+SYN-0591,Email,No defect,False
+SYN-0592,Chat,No defect,False
+SYN-0593,Email,Resolution,True
+SYN-0594,Voice,No defect,False
+SYN-0595,Chat,No defect,False
+SYN-0596,Voice,No defect,False
+SYN-0597,Chat,No defect,False
+SYN-0598,Voice,No defect,False
+SYN-0599,Email,No defect,False
+SYN-0600,Chat,No defect,False
+SYN-0601,Email,No defect,False
+SYN-0602,Voice,No defect,False
+SYN-0603,Voice,No defect,False
+SYN-0604,Chat,No defect,False
+SYN-0605,Chat,No defect,False
+SYN-0606,Chat,No defect,False
+SYN-0607,Chat,Communication,True
+SYN-0608,Voice,No defect,False
+SYN-0609,Voice,No defect,False
+SYN-0610,Voice,No defect,False
+SYN-0611,Chat,No defect,False
+SYN-0612,Voice,No defect,False
+SYN-0613,Email,No defect,False
+SYN-0614,Email,No defect,False
+SYN-0615,Email,No defect,False
+SYN-0616,Chat,No defect,False
+SYN-0617,Chat,No defect,False
+SYN-0618,Chat,Resolution,True
+SYN-0619,Chat,Communication,True
+SYN-0620,Voice,Documentation,True
+SYN-0621,Email,No defect,False
+SYN-0622,Voice,No defect,False
+SYN-0623,Voice,No defect,False
+SYN-0624,Chat,No defect,False
+SYN-0625,Chat,No defect,False
+SYN-0626,Chat,Resolution,True
+SYN-0627,Email,No defect,False
+SYN-0628,Chat,No defect,False
+SYN-0629,Chat,No defect,False
+SYN-0630,Chat,No defect,False
+SYN-0631,Voice,No defect,False
+SYN-0632,Chat,No defect,False
+SYN-0633,Chat,Communication,True
+SYN-0634,Chat,No defect,False
+SYN-0635,Chat,No defect,False
+SYN-0636,Chat,No defect,False
+SYN-0637,Voice,No defect,False
+SYN-0638,Voice,No defect,False
+SYN-0639,Chat,No defect,False
+SYN-0640,Chat,Documentation,True
+SYN-0641,Email,Documentation,True
+SYN-0642,Voice,No defect,False
+SYN-0643,Chat,Documentation,True
+SYN-0644,Chat,Documentation,True
+SYN-0645,Chat,No defect,False
+SYN-0646,Voice,No defect,False
+SYN-0647,Chat,No defect,False
+SYN-0648,Chat,No defect,False
+SYN-0649,Chat,No defect,False
+SYN-0650,Voice,No defect,False
+SYN-0651,Email,No defect,False
+SYN-0652,Chat,No defect,False
+SYN-0653,Chat,No defect,False
+SYN-0654,Chat,No defect,False
+SYN-0655,Email,No defect,False
+SYN-0656,Voice,No defect,False
+SYN-0657,Voice,No defect,False
+SYN-0658,Email,No defect,False
+SYN-0659,Email,No defect,False
+SYN-0660,Chat,Documentation,True
+SYN-0661,Chat,No defect,False
+SYN-0662,Email,No defect,False
+SYN-0663,Voice,Resolution,True
+SYN-0664,Chat,No defect,False
+SYN-0665,Email,Resolution,True
+SYN-0666,Chat,Documentation,True
+SYN-0667,Voice,No defect,False
+SYN-0668,Chat,No defect,False
+SYN-0669,Email,No defect,False
+SYN-0670,Chat,No defect,False
+SYN-0671,Voice,No defect,False
+SYN-0672,Chat,No defect,False
+SYN-0673,Chat,Communication,True
+SYN-0674,Chat,Communication,True
+SYN-0675,Chat,No defect,False
+SYN-0676,Chat,No defect,False
+SYN-0677,Chat,No defect,False
+SYN-0678,Voice,No defect,False
+SYN-0679,Voice,No defect,False
+SYN-0680,Email,No defect,False
+SYN-0681,Chat,No defect,False
+SYN-0682,Email,Documentation,True
+SYN-0683,Voice,No defect,False
+SYN-0684,Chat,No defect,False
+SYN-0685,Email,Resolution,True
+SYN-0686,Voice,No defect,False
+SYN-0687,Voice,Process,False
+SYN-0688,Chat,No defect,False
+SYN-0689,Voice,No defect,False
+SYN-0690,Voice,No defect,False
+SYN-0691,Chat,No defect,False
+SYN-0692,Chat,No defect,False
+SYN-0693,Voice,Process,False
+SYN-0694,Chat,Process,False
+SYN-0695,Chat,No defect,False
+SYN-0696,Email,No defect,False
+SYN-0697,Chat,No defect,False
+SYN-0698,Voice,No defect,False
+SYN-0699,Voice,Documentation,True
+SYN-0700,Email,Documentation,True
+SYN-0701,Voice,No defect,False
+SYN-0702,Chat,No defect,False
+SYN-0703,Chat,No defect,False
+SYN-0704,Chat,No defect,False
+SYN-0705,Chat,No defect,False
+SYN-0706,Voice,No defect,False
+SYN-0707,Voice,No defect,False
+SYN-0708,Voice,Resolution,True
+SYN-0709,Voice,No defect,False
+SYN-0710,Voice,No defect,False
+SYN-0711,Voice,Process,False
+SYN-0712,Email,No defect,False
+SYN-0713,Email,No defect,False
+SYN-0714,Voice,No defect,False
+SYN-0715,Chat,No defect,False
+SYN-0716,Chat,No defect,False
+SYN-0717,Voice,No defect,False
+SYN-0718,Chat,Documentation,True
+SYN-0719,Chat,No defect,False
+SYN-0720,Voice,No defect,False
+SYN-0721,Chat,No defect,False
+SYN-0722,Voice,No defect,False
+SYN-0723,Chat,No defect,False
+SYN-0724,Chat,No defect,False
+SYN-0725,Email,No defect,False
+SYN-0726,Voice,Resolution,True
+SYN-0727,Email,No defect,False
+SYN-0728,Chat,Process,False
+SYN-0729,Chat,No defect,False
+SYN-0730,Chat,No defect,False
+SYN-0731,Chat,No defect,False
+SYN-0732,Chat,Resolution,True
+SYN-0733,Voice,No defect,False
+SYN-0734,Email,No defect,False
+SYN-0735,Chat,No defect,False
+SYN-0736,Email,No defect,False
+SYN-0737,Email,No defect,False
+SYN-0738,Voice,No defect,False
+SYN-0739,Voice,Documentation,True
+SYN-0740,Voice,Process,False
+SYN-0741,Voice,No defect,False
+SYN-0742,Voice,No defect,False
+SYN-0743,Chat,No defect,False
+SYN-0744,Chat,No defect,False
+SYN-0745,Voice,No defect,False
+SYN-0746,Chat,Communication,True
+SYN-0747,Chat,No defect,False
+SYN-0748,Email,No defect,False
+SYN-0749,Email,No defect,False
+SYN-0750,Email,No defect,False
+SYN-0751,Chat,No defect,False
+SYN-0752,Voice,No defect,False
+SYN-0753,Voice,No defect,False
+SYN-0754,Chat,No defect,False
+SYN-0755,Email,No defect,False
+SYN-0756,Voice,Communication,True
+SYN-0757,Voice,No defect,False
+SYN-0758,Voice,No defect,False
+SYN-0759,Chat,Communication,True
+SYN-0760,Chat,No defect,False
+SYN-0761,Voice,No defect,False
+SYN-0762,Email,No defect,False
+SYN-0763,Voice,Process,False
+SYN-0764,Chat,No defect,False
+SYN-0765,Chat,Resolution,True
+SYN-0766,Voice,No defect,False
+SYN-0767,Voice,No defect,False
+SYN-0768,Voice,No defect,False
+SYN-0769,Chat,No defect,False
+SYN-0770,Email,Documentation,True
+SYN-0771,Voice,Resolution,True
+SYN-0772,Chat,Resolution,True
+SYN-0773,Chat,No defect,False
+SYN-0774,Email,No defect,False
+SYN-0775,Voice,No defect,False
+SYN-0776,Email,No defect,False
+SYN-0777,Chat,No defect,False
+SYN-0778,Chat,Communication,True
+SYN-0779,Chat,No defect,False
+SYN-0780,Email,No defect,False
+SYN-0781,Chat,No defect,False
+SYN-0782,Email,No defect,False
+SYN-0783,Email,Process,False
+SYN-0784,Voice,No defect,False
+SYN-0785,Voice,No defect,False
+SYN-0786,Chat,No defect,False
+SYN-0787,Email,No defect,False
+SYN-0788,Email,No defect,False
+SYN-0789,Chat,Process,False
+SYN-0790,Voice,No defect,False
+SYN-0791,Voice,No defect,False
+SYN-0792,Voice,No defect,False
+SYN-0793,Voice,Communication,True
+SYN-0794,Chat,Documentation,True
+SYN-0795,Voice,Resolution,True
+SYN-0796,Chat,No defect,False
+SYN-0797,Voice,Resolution,True
+SYN-0798,Chat,No defect,False
+SYN-0799,Chat,Resolution,True
+SYN-0800,Chat,Documentation,True
+SYN-0801,Email,No defect,False
+SYN-0802,Chat,No defect,False
+SYN-0803,Chat,No defect,False
+SYN-0804,Chat,Process,False
+SYN-0805,Chat,No defect,False
+SYN-0806,Chat,No defect,False
+SYN-0807,Chat,No defect,False
+SYN-0808,Email,No defect,False
+SYN-0809,Chat,No defect,False
+SYN-0810,Voice,Resolution,True
+SYN-0811,Voice,No defect,False
+SYN-0812,Voice,No defect,False
+SYN-0813,Chat,No defect,False
+SYN-0814,Chat,No defect,False
+SYN-0815,Chat,No defect,False
+SYN-0816,Email,No defect,False
+SYN-0817,Voice,No defect,False
+SYN-0818,Voice,No defect,False
+SYN-0819,Chat,Documentation,True
+SYN-0820,Voice,No defect,False
+SYN-0821,Voice,No defect,False
+SYN-0822,Voice,No defect,False
+SYN-0823,Chat,No defect,False
+SYN-0824,Voice,No defect,False
+SYN-0825,Chat,No defect,False
+SYN-0826,Email,No defect,False
+SYN-0827,Voice,No defect,False
+SYN-0828,Voice,Documentation,True
+SYN-0829,Voice,No defect,False
+SYN-0830,Chat,No defect,False
+SYN-0831,Voice,No defect,False
+SYN-0832,Voice,Documentation,True
+SYN-0833,Email,No defect,False
+SYN-0834,Chat,No defect,False
+SYN-0835,Email,Documentation,True
+SYN-0836,Voice,No defect,False
+SYN-0837,Chat,No defect,False
+SYN-0838,Voice,No defect,False
+SYN-0839,Voice,Resolution,True
+SYN-0840,Chat,No defect,False
+SYN-0841,Email,No defect,False
+SYN-0842,Voice,Process,False
+SYN-0843,Voice,No defect,False
+SYN-0844,Chat,No defect,False
+SYN-0845,Chat,No defect,False
+SYN-0846,Chat,Resolution,True
+SYN-0847,Chat,No defect,False
+SYN-0848,Chat,No defect,False
+SYN-0849,Voice,Resolution,True
+SYN-0850,Chat,No defect,False
+SYN-0851,Email,No defect,False
+SYN-0852,Chat,No defect,False
+SYN-0853,Voice,No defect,False
+SYN-0854,Voice,No defect,False
+SYN-0855,Chat,Communication,True
+SYN-0856,Chat,No defect,False
+SYN-0857,Voice,Resolution,True
+SYN-0858,Email,No defect,False
+SYN-0859,Voice,No defect,False
+SYN-0860,Chat,No defect,False
+SYN-0861,Chat,No defect,False
+SYN-0862,Chat,No defect,False
+SYN-0863,Chat,No defect,False
+SYN-0864,Chat,Resolution,True
+SYN-0865,Email,No defect,False
+SYN-0866,Email,Resolution,True
+SYN-0867,Chat,No defect,False
+SYN-0868,Voice,No defect,False
+SYN-0869,Chat,Documentation,True
+SYN-0870,Voice,No defect,False
+SYN-0871,Chat,No defect,False
+SYN-0872,Chat,No defect,False
+SYN-0873,Chat,No defect,False
+SYN-0874,Email,No defect,False
+SYN-0875,Chat,No defect,False
+SYN-0876,Chat,No defect,False
+SYN-0877,Chat,Resolution,True
+SYN-0878,Voice,Resolution,True
+SYN-0879,Chat,No defect,False
+SYN-0880,Chat,No defect,False
+SYN-0881,Email,Resolution,True
+SYN-0882,Voice,No defect,False
+SYN-0883,Voice,No defect,False
+SYN-0884,Chat,No defect,False
+SYN-0885,Chat,No defect,False
+SYN-0886,Voice,No defect,False
+SYN-0887,Chat,Documentation,True
+SYN-0888,Chat,No defect,False
+SYN-0889,Chat,Documentation,True
+SYN-0890,Chat,No defect,False
+SYN-0891,Email,Documentation,True
+SYN-0892,Chat,No defect,False
+SYN-0893,Email,Documentation,True
+SYN-0894,Voice,Documentation,True
+SYN-0895,Chat,Communication,True
+SYN-0896,Voice,No defect,False
+SYN-0897,Email,No defect,False
+SYN-0898,Chat,No defect,False
+SYN-0899,Chat,Documentation,True
+SYN-0900,Email,No defect,False
+SYN-0901,Email,No defect,False
+SYN-0902,Email,Communication,True
+SYN-0903,Chat,No defect,False
+SYN-0904,Chat,No defect,False
+SYN-0905,Chat,No defect,False
+SYN-0906,Voice,Process,False
+SYN-0907,Chat,No defect,False
+SYN-0908,Voice,Process,False
+SYN-0909,Voice,No defect,False
+SYN-0910,Voice,No defect,False
+SYN-0911,Email,Resolution,True
+SYN-0912,Voice,Process,False
+SYN-0913,Voice,No defect,False
+SYN-0914,Voice,No defect,False
+SYN-0915,Email,No defect,False
+SYN-0916,Chat,No defect,False
+SYN-0917,Chat,Resolution,True
+SYN-0918,Email,Resolution,True
+SYN-0919,Chat,Resolution,True
+SYN-0920,Voice,No defect,False
+SYN-0921,Voice,Resolution,True
+SYN-0922,Chat,No defect,False
+SYN-0923,Chat,Resolution,True
+SYN-0924,Chat,No defect,False
+SYN-0925,Email,Communication,True
+SYN-0926,Email,No defect,False
+SYN-0927,Chat,No defect,False
+SYN-0928,Chat,No defect,False
+SYN-0929,Email,Process,False
+SYN-0930,Chat,Communication,True
+SYN-0931,Chat,No defect,False
+SYN-0932,Voice,No defect,False
+SYN-0933,Chat,No defect,False
+SYN-0934,Email,No defect,False
+SYN-0935,Chat,Documentation,True
+SYN-0936,Voice,Documentation,True
+SYN-0937,Chat,No defect,False
+SYN-0938,Voice,Documentation,True
+SYN-0939,Chat,No defect,False
+SYN-0940,Email,No defect,False
+SYN-0941,Voice,No defect,False
+SYN-0942,Chat,No defect,False
+SYN-0943,Chat,No defect,False
+SYN-0944,Voice,No defect,False
+SYN-0945,Voice,No defect,False
+SYN-0946,Chat,No defect,False
+SYN-0947,Chat,Process,False
+SYN-0948,Voice,No defect,False
+SYN-0949,Email,No defect,False
+SYN-0950,Chat,No defect,False
+SYN-0951,Chat,No defect,False
+SYN-0952,Chat,No defect,False
+SYN-0953,Email,No defect,False
+SYN-0954,Chat,No defect,False
+SYN-0955,Chat,No defect,False
+SYN-0956,Voice,No defect,False
+SYN-0957,Email,No defect,False
+SYN-0958,Chat,No defect,False
+SYN-0959,Voice,No defect,False
+SYN-0960,Email,Resolution,True
+SYN-0961,Email,No defect,False
+SYN-0962,Chat,No defect,False
+SYN-0963,Voice,Communication,True
+SYN-0964,Voice,No defect,False
+SYN-0965,Voice,No defect,False
+SYN-0966,Voice,Resolution,True
+SYN-0967,Chat,No defect,False
+SYN-0968,Voice,No defect,False
+SYN-0969,Voice,No defect,False
+SYN-0970,Voice,No defect,False
+SYN-0971,Chat,No defect,False
+SYN-0972,Chat,No defect,False
+SYN-0973,Chat,Resolution,True
+SYN-0974,Chat,No defect,False
+SYN-0975,Chat,No defect,False
+SYN-0976,Voice,No defect,False
+SYN-0977,Voice,No defect,False
+SYN-0978,Chat,No defect,False
+SYN-0979,Chat,Communication,True
+SYN-0980,Voice,No defect,False
+SYN-0981,Chat,Communication,True
+SYN-0982,Chat,No defect,False
+SYN-0983,Voice,No defect,False
+SYN-0984,Chat,No defect,False
+SYN-0985,Voice,No defect,False
+SYN-0986,Email,Documentation,True
+SYN-0987,Chat,Resolution,True
+SYN-0988,Voice,No defect,False
+SYN-0989,Email,No defect,False
+SYN-0990,Email,Process,False
+SYN-0991,Chat,Documentation,True
+SYN-0992,Chat,Process,False
+SYN-0993,Email,Process,False
+SYN-0994,Chat,Resolution,True
+SYN-0995,Chat,Process,False
+SYN-0996,Chat,No defect,False
+SYN-0997,Voice,Resolution,True
+SYN-0998,Chat,No defect,False
+SYN-0999,Voice,Resolution,True
+SYN-1000,Voice,No defect,False
+SYN-1001,Voice,No defect,False
+SYN-1002,Voice,No defect,False
+SYN-1003,Voice,No defect,False
+SYN-1004,Chat,No defect,False
+SYN-1005,Chat,Process,False
+SYN-1006,Voice,No defect,False
+SYN-1007,Chat,No defect,False
+SYN-1008,Chat,No defect,False
+SYN-1009,Email,No defect,False
+SYN-1010,Chat,Communication,True
+SYN-1011,Voice,Process,False
+SYN-1012,Voice,Documentation,True
+SYN-1013,Voice,Resolution,True
+SYN-1014,Voice,No defect,False
+SYN-1015,Email,No defect,False
+SYN-1016,Chat,No defect,False
+SYN-1017,Chat,Communication,True
+SYN-1018,Voice,No defect,False
+SYN-1019,Chat,No defect,False
+SYN-1020,Voice,No defect,False
+SYN-1021,Chat,No defect,False
+SYN-1022,Voice,Process,False
+SYN-1023,Voice,Process,False
+SYN-1024,Chat,No defect,False
+SYN-1025,Voice,Process,False
+SYN-1026,Voice,No defect,False
+SYN-1027,Chat,Resolution,True
+SYN-1028,Chat,No defect,False
+SYN-1029,Email,No defect,False
+SYN-1030,Chat,No defect,False
+SYN-1031,Voice,No defect,False
+SYN-1032,Voice,No defect,False
+SYN-1033,Voice,No defect,False
+SYN-1034,Voice,No defect,False
+SYN-1035,Chat,Documentation,True
+SYN-1036,Email,No defect,False
+SYN-1037,Email,No defect,False
+SYN-1038,Chat,No defect,False
+SYN-1039,Voice,Process,False
+SYN-1040,Chat,Documentation,True
+SYN-1041,Voice,No defect,False
+SYN-1042,Chat,No defect,False
+SYN-1043,Email,No defect,False
+SYN-1044,Chat,Process,False
+SYN-1045,Email,No defect,False
+SYN-1046,Voice,Resolution,True
+SYN-1047,Voice,No defect,False
+SYN-1048,Email,No defect,False
+SYN-1049,Chat,No defect,False
+SYN-1050,Email,No defect,False
+SYN-1051,Voice,Resolution,True
+SYN-1052,Chat,Resolution,True
+SYN-1053,Chat,Resolution,True
+SYN-1054,Voice,No defect,False
+SYN-1055,Email,No defect,False
+SYN-1056,Chat,Documentation,True
+SYN-1057,Chat,No defect,False
+SYN-1058,Chat,No defect,False
+SYN-1059,Chat,No defect,False
+SYN-1060,Voice,No defect,False
+SYN-1061,Email,No defect,False
+SYN-1062,Voice,No defect,False
+SYN-1063,Voice,No defect,False
+SYN-1064,Chat,No defect,False
+SYN-1065,Email,Documentation,True
+SYN-1066,Voice,Resolution,True
+SYN-1067,Chat,No defect,False
+SYN-1068,Chat,Documentation,True
+SYN-1069,Chat,No defect,False
+SYN-1070,Chat,Documentation,True
+SYN-1071,Chat,Documentation,True
+SYN-1072,Voice,No defect,False
+SYN-1073,Chat,No defect,False
+SYN-1074,Chat,No defect,False
+SYN-1075,Voice,Resolution,True
+SYN-1076,Voice,No defect,False
+SYN-1077,Chat,No defect,False
+SYN-1078,Chat,No defect,False
+SYN-1079,Voice,No defect,False
+SYN-1080,Chat,No defect,False
+SYN-1081,Voice,No defect,False
+SYN-1082,Voice,No defect,False
+SYN-1083,Email,No defect,False
+SYN-1084,Chat,No defect,False
+SYN-1085,Chat,No defect,False
+SYN-1086,Chat,No defect,False
+SYN-1087,Email,Resolution,True
+SYN-1088,Voice,No defect,False
+SYN-1089,Email,No defect,False
+SYN-1090,Email,No defect,False
+SYN-1091,Chat,Resolution,True
+SYN-1092,Chat,Process,False
+SYN-1093,Chat,No defect,False
+SYN-1094,Email,No defect,False
+SYN-1095,Chat,Documentation,True
+SYN-1096,Chat,No defect,False
+SYN-1097,Voice,Process,False
+SYN-1098,Chat,No defect,False
+SYN-1099,Chat,No defect,False
+SYN-1100,Voice,No defect,False
+SYN-1101,Email,No defect,False
+SYN-1102,Voice,No defect,False
+SYN-1103,Chat,No defect,False
+SYN-1104,Voice,Documentation,True
+SYN-1105,Voice,Resolution,True
+SYN-1106,Chat,Resolution,True
+SYN-1107,Chat,No defect,False
+SYN-1108,Chat,Resolution,True
+SYN-1109,Chat,Documentation,True
+SYN-1110,Email,No defect,False
+SYN-1111,Chat,No defect,False
+SYN-1112,Email,No defect,False
+SYN-1113,Email,No defect,False
+SYN-1114,Chat,Documentation,True
+SYN-1115,Chat,No defect,False
+SYN-1116,Chat,No defect,False
+SYN-1117,Chat,No defect,False
+SYN-1118,Chat,No defect,False
+SYN-1119,Chat,No defect,False
+SYN-1120,Voice,No defect,False
+SYN-1121,Voice,No defect,False
+SYN-1122,Voice,Resolution,True
+SYN-1123,Chat,No defect,False
+SYN-1124,Chat,No defect,False
+SYN-1125,Voice,No defect,False
+SYN-1126,Chat,No defect,False
+SYN-1127,Voice,No defect,False
+SYN-1128,Email,Process,False
+SYN-1129,Chat,Process,False
+SYN-1130,Email,Resolution,True
+SYN-1131,Email,No defect,False
+SYN-1132,Voice,No defect,False
+SYN-1133,Voice,No defect,False
+SYN-1134,Voice,Process,False
+SYN-1135,Voice,No defect,False
+SYN-1136,Chat,No defect,False
+SYN-1137,Email,No defect,False
+SYN-1138,Chat,Resolution,True
+SYN-1139,Voice,No defect,False
+SYN-1140,Chat,No defect,False
+SYN-1141,Voice,No defect,False
+SYN-1142,Voice,No defect,False
+SYN-1143,Voice,No defect,False
+SYN-1144,Email,Process,False
+SYN-1145,Chat,No defect,False
+SYN-1146,Chat,Resolution,True
+SYN-1147,Voice,No defect,False
+SYN-1148,Chat,No defect,False
+SYN-1149,Chat,No defect,False
+SYN-1150,Voice,Communication,True
+SYN-1151,Chat,No defect,False
+SYN-1152,Chat,No defect,False
+SYN-1153,Chat,No defect,False
+SYN-1154,Voice,No defect,False
+SYN-1155,Chat,No defect,False
+SYN-1156,Email,No defect,False
+SYN-1157,Voice,No defect,False
+SYN-1158,Chat,No defect,False
+SYN-1159,Chat,No defect,False
+SYN-1160,Chat,Resolution,True
+SYN-1161,Chat,No defect,False
+SYN-1162,Voice,No defect,False
+SYN-1163,Email,No defect,False
+SYN-1164,Chat,No defect,False
+SYN-1165,Chat,No defect,False
+SYN-1166,Voice,Communication,True
+SYN-1167,Chat,No defect,False
+SYN-1168,Voice,No defect,False
+SYN-1169,Voice,Communication,True
+SYN-1170,Chat,No defect,False
+SYN-1171,Email,No defect,False
+SYN-1172,Email,No defect,False
+SYN-1173,Chat,No defect,False
+SYN-1174,Voice,No defect,False
+SYN-1175,Chat,No defect,False
+SYN-1176,Email,No defect,False
+SYN-1177,Chat,No defect,False
+SYN-1178,Chat,Process,False
+SYN-1179,Chat,No defect,False
+SYN-1180,Voice,Process,False
+SYN-1181,Chat,Process,False
+SYN-1182,Voice,No defect,False
+SYN-1183,Voice,No defect,False
+SYN-1184,Chat,No defect,False
+SYN-1185,Voice,No defect,False
+SYN-1186,Voice,No defect,False
+SYN-1187,Voice,No defect,False
+SYN-1188,Chat,Documentation,True
+SYN-1189,Chat,No defect,False
+SYN-1190,Voice,No defect,False
+SYN-1191,Chat,Communication,True
+SYN-1192,Chat,No defect,False
+SYN-1193,Email,Process,False
+SYN-1194,Chat,Resolution,True
+SYN-1195,Voice,No defect,False
+SYN-1196,Chat,Process,False
+SYN-1197,Chat,No defect,False
+SYN-1198,Chat,No defect,False
+SYN-1199,Email,No defect,False
+SYN-1200,Chat,Resolution,True
