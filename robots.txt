@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rkaushik95-netizen.github.io/sitemap.xml
