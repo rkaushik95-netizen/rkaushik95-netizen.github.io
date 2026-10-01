@@ -5,3 +5,5 @@ Anonymized real-work case studies and independent reproducible learning exercise
 The real-work summaries distinguish direct contribution from team participation and do not make unverified performance claims. Learning studies are prepared with assistance. See LEARNING.md and SOURCES.md for study methods and public data sources.
 
 Search engines are allowed to index the portfolio. No analytics or tracking scripts are installed.
+
+Site maintenance: search ownership verification is kept in the homepage metadata.
